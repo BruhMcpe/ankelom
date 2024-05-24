@@ -65,3 +65,5 @@ An upcoming Minecraft Server Manager focused on robustness and ease of access.
   - Available for Windows, macOS, and Linux.
   - Android app and web panel for remote management.
 
+Note: AI is prone to mistakes, it is **NOT** recommended to use it in production environments. Local AI (Llama) may require additional resources. Some AI features may require OpenAI API key.
+
