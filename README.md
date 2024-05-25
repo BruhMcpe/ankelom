@@ -67,3 +67,5 @@ An upcoming Minecraft Server Manager focused on robustness and ease of access.
 
 Note: AI is prone to mistakes, it is **NOT** recommended to use it in production environments. Local AI (Llama) may require additional resources. Some AI features may require OpenAI API key.
 
+## Contributions
+Contact me on Discord if you want to contribute I don't want no malware in my repo >>:((
