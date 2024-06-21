@@ -1,5 +1,6 @@
 # Ankelom
 An upcoming Minecraft Server Manager focused on robustness and ease of access.
+[Under Development, planned to release the base on around December]
 ## Planned Features
 
 ### Supported Server Software
