@@ -52,13 +52,6 @@ An upcoming Minecraft Server Manager focused on robustness and ease of access.
 - **Custom Server Software:**
   - Manually add and manage custom server software.
 
-### AI-Powered Features (Experimental/For Fun DO NOT USE IN PRODUCTION ENVIRONMENTS)
-- **Error Analysis:**
-  - Analyze server errors with GPT-4 or local AI models.
-  - Prompt-based setup and management assistance.
-- **Prompt Feature:**
-  - Utilize GPT-4 for server setup and management commands.
-
 ### Additional Tools
 - **Performance Analytics:**
   - Use analytics and AI to analyze server performance.
