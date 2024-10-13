@@ -1,7 +1,7 @@
 # Ankelom
-An upcoming Minecraft Server Manager focused on robustness and ease of access.
+Deploy Game servers with ease.
 ## Planned Features
-
+- Support for Minecraft and other games.
 ### Supported Server Software
 - **Plugins:**
   - Paper
