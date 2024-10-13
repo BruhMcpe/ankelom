@@ -1,6 +1,5 @@
 # Ankelom
 An upcoming Minecraft Server Manager focused on robustness and ease of access.
-[Under Development, planned to release the base on around December]
 ## Planned Features
 
 ### Supported Server Software
@@ -41,7 +40,6 @@ An upcoming Minecraft Server Manager focused on robustness and ease of access.
   - Alerts for suspicious activity.
 - **Server Configuration GUI:**
   - Easy-to-use interface for `server.properties` and other server configurations
-  - AI-powered GUI analysis for plugin configuration management.
 - **Console Management:**
   - Manage server console from the app with secure access controls.
   - Ban, kick, blacklist/whitelist players directly from the app.
@@ -54,10 +52,11 @@ An upcoming Minecraft Server Manager focused on robustness and ease of access.
 
 ### Additional Tools
 - **Performance Analytics:**
-  - Use analytics and AI to analyze server performance.
 - **Cross-Platform Support:**
   - Available for Windows, macOS, and Linux.
   - Android app and web panel for remote management.
 
 ## Contributions
 Contact me on Discord if you want to contribute I don't want no malware in my repo >>:((
+
+## AS OF NOW THIS PROJECT IS INACTIVE DUE TO PERSONAL REASONS.
