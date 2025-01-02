@@ -59,4 +59,4 @@ Deploy Game servers with ease.
 ## Contributions
 Contact me on Discord if you want to contribute I don't want no malware in my repo >>:((
 
-## AS OF NOW THIS PROJECT IS INACTIVE DUE TO PERSONAL REASONS.
+## AS OF NOW THIS PROJECT IS INACTIVE, DEVELOPMENT WILL START SOMETIME IN APRIL.
