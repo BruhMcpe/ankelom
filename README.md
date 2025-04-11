@@ -73,7 +73,7 @@
 
 ### 🌐 Static IP Tunnels  
 - Avoid port forwarding using built-in tunneling.
-- Supports (Playit.gg)[https://playit.gg] and more.
+- Supports [Playit.gg](https://playit.gg) and more.
 
 ### 🔗 Proxy Linking  
 - Link multiple server instances into one proxy setup.
