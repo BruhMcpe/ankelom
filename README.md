@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-inactive%20(dev%20starts%20May)-blue)
 ![Platform](https://img.shields.io/badge/platform-win%20%7C%20mac%20%7C%20linux%20%7C%20android-lightgrey)
-![License](https://img.shields.io/badge/license-WTFPL-critical)
+![License](https://img.shields.io/badge/license-GPL-3-critical)
 
 ---
 
