@@ -2,7 +2,7 @@
 🚀 deploy game servers with ease.  
 *no headaches. no bullshit.*
 
-![Status](https://img.shields.io/badge/status-inactive%20(dev%20starts%20April)-blue)
+![Status](https://img.shields.io/badge/status-inactive%20(dev%20starts%20May)-blue)
 ![Platform](https://img.shields.io/badge/platform-win%20%7C%20mac%20%7C%20linux%20%7C%20android-lightgrey)
 ![License](https://img.shields.io/badge/license-WTFPL-critical)
 
@@ -73,7 +73,7 @@
 
 ### 🌐 Static IP Tunnels  
 - Avoid port forwarding using built-in tunneling.
-- Supports Playit.gg and more.
+- Supports (Playit.gg)[https://playit.gg] and more.
 
 ### 🔗 Proxy Linking  
 - Link multiple server instances into one proxy setup.
