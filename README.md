@@ -16,7 +16,7 @@
 
 ---
 
-## 🧩 Supported Server Software
+## 🧩 Supported Server Software (Minecraft only, as of now.)
 
 ### 🧱 Plugins
 - Paper  
@@ -91,7 +91,7 @@
 
 ---
 
-## 😤 Why tf should you care?
+## 😤 Why the hell should you care?
 
 Tired of:
 - Screwing up Java versions?
@@ -99,7 +99,7 @@ Tired of:
 - Port forwarding through your uncle’s 2009 router?
 
 **Ankelom** is like Realms, but built by someone who actually gives a damn.  
-Less setup, more play. All FOSS. No corporate BS.
+Less setup, more play. All FOSS. No corporate Bullshit.
 
 ---
 
@@ -112,4 +112,4 @@ DM me on Discord.
 ---
 
 > ⚠️ This project is currently inactive.  
-> 🕐 Development begins April 2025. Stay tuned.
+> 🕐 Development begins May 2025. Stay tuned.
