@@ -1,62 +1,115 @@
-# Ankelom
-Deploy Game servers with ease.
-## Planned Features
-- Support for Minecraft and other games.
-### Supported Server Software
-- **Plugins:**
-  - Paper
-  - Purpur
-  - Spigot
-  - Bukkit
-  - Sponge
-- **Proxies:**
-  - Velocity
-  - Bungeecord
-  - Waterfall
-- **Modloaders:**
-  - Forge
-  - Fabric
-  - Quilt
-  - NeoForge
-- **Modloader-Plugin Hybrids:**
-  - SpongeForge
-  - Arclight
-  - Cardboard
-  - Mohist
+# Ankelom  
+🚀 deploy game servers with ease.  
+*no headaches. no bullshit.*
 
-### Quality-of-Life Enhancements
-- **Automatic Mod and Plugin Updates:**
-  - Supports CurseForge, Modrinth, Spigot, Bukkit, Sponge plugin/mod websites.
-  - Schedule updates or run them during idle times.
-- **Server Backups and Recovery:**
-  - Automatic & Manual Backup scheduling with intergration to Google Drive
-  - Easy recovery from backups and raids.
-- **Performance Monitoring:**
-  - Detailed performance reports with graphical representation.
-- **User Access Control:**
-  - Custom roles for accessing server/server files/console.
-  - Create your own roles with different access permissions.
-- **Security and Notifications:**
-  - Alerts for suspicious activity.
-- **Server Configuration GUI:**
-  - Easy-to-use interface for `server.properties` and other server configurations
-- **Console Management:**
-  - Manage server console from the app with secure access controls.
-  - Ban, kick, blacklist/whitelist players directly from the app.
-- **Static IP tunnels:**
-  - Use tunneling to avoid IP changes or not deal with port forwoarding.
-- **Proxy Setup:**
-  - Seamlessly link multiple servers into your proxy server.
-- **Custom Server Software:**
-  - Manually add and manage custom server software.
+![Status](https://img.shields.io/badge/status-inactive%20(dev%20starts%20April)-blue)
+![Platform](https://img.shields.io/badge/platform-win%20%7C%20mac%20%7C%20linux%20%7C%20android-lightgrey)
+![License](https://img.shields.io/badge/license-WTFPL-critical)
 
-### Additional Tools
-- **Performance Analytics:**
-- **Cross-Platform Support:**
-  - Available for Windows, macOS, and Linux.
-  - Android app and web panel for remote management.
+---
 
-## Contributions
-Contact me on Discord if you want to contribute I don't want no malware in my repo >>:((
+## 🔧 Planned Features
+- One-click server deploy for Minecraft + other games.
+- Seamless GUI. No CLI wizardry unless u want it.
+- Automatic updates, backups, and IP tunneling.
+- Cross-platform with remote management options.
 
-## AS OF NOW THIS PROJECT IS INACTIVE, DEVELOPMENT WILL START SOMETIME IN APRIL.
+---
+
+## 🧩 Supported Server Software
+
+### 🧱 Plugins
+- Paper  
+- Purpur  
+- Spigot  
+- Bukkit  
+- Sponge  
+
+### 🛡️ Proxies  
+- Velocity  
+- Bungeecord  
+- Waterfall  
+
+### ⚙️ Modloaders  
+- Forge  
+- Fabric  
+- Quilt  
+- NeoForge  
+
+### 🔀 Hybrids  
+- SpongeForge  
+- Arclight  
+- Cardboard  
+- Mohist  
+
+---
+
+## ✨ Quality of Life Features
+
+### 🔄 Auto Plugin/Mod Updates
+- Supports CurseForge, Modrinth, Spigot, Bukkit, Sponge, etc.
+- Run manually or schedule during idle hours.
+
+### 📦 Server Backups + Recovery  
+- Manual or scheduled backups w/ Google Drive integration.  
+- Rollback after griefs, crashes, or "oops" moments.
+
+### 📊 Performance Monitoring  
+- Live stats, graphs, and detailed performance reports.
+
+### 👥 User Access Control  
+- Create custom roles with fine-grain permissions.
+- Grant console, file, or server access as needed.
+
+### 🔐 Security + Notifications  
+- Alerts for sus activity (like console spam, failed logins, etc.)
+
+### 🛠️ GUI for Configs  
+- Easy UI for `server.properties`, plugin configs, etc.
+
+### 🖥️ Console Management  
+- Ban/kick/whitelist/blacklist directly from the app.
+- Real-time console with permission-based access.
+
+### 🌐 Static IP Tunnels  
+- Avoid port forwarding using built-in tunneling.
+- Supports Playit.gg and more.
+
+### 🔗 Proxy Linking  
+- Link multiple server instances into one proxy setup.
+
+### ⚡ Custom Server Support  
+- Manually add and manage custom jars or server types.
+
+---
+
+## 🧰 Additional Tools
+
+- Performance analytics engine  
+- Native support for Windows, macOS, Linux  
+- Android app & Web panel for remote control  
+
+---
+
+## 😤 Why tf should you care?
+
+Tired of:
+- Screwing up Java versions?
+- Downloading mods one by one like a caveman?
+- Port forwarding through your uncle’s 2009 router?
+
+**Ankelom** is like Realms, but built by someone who actually gives a damn.  
+Less setup, more play. All FOSS. No corporate BS.
+
+---
+
+## 💬 Contributions
+
+Wanna help out?  
+DM me on Discord.  
+🚫 No malware. No shady PRs. I will find you.
+
+---
+
+> ⚠️ This project is currently inactive.  
+> 🕐 Development begins April 2025. Stay tuned.
