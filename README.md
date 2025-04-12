@@ -73,7 +73,7 @@
 
 ### 🌐 Static IP Tunnels  
 - Avoid port forwarding using built-in tunneling.
-- Supports [Playit.gg](https://playit.gg) and more.
+- Supports [Playit.gg](https://playit.gg), [NGNIX](https://ngnix.org) and more.
 
 ### 🔗 Proxy Linking  
 - Link multiple server instances into one proxy setup.
@@ -91,10 +91,10 @@
 
 ---
 
-## 😤 Why the hell should you care?
+## 🤔 Why the hell should you care?
 
 Tired of:
-- Screwing up Java versions?
+- Mixing up Java versions?
 - Downloading mods one by one like a caveman?
 - Port forwarding through your uncle’s 2009 router?
 
